@@ -15,6 +15,7 @@ Third mini game: Word Snake presents the player with a continuous string of lett
 
 ![image](https://github.com/Jumblii/wordgame/assets/41615708/7072338a-50d7-4d1f-8ff8-e1569a08a2d2)
 
+To run the Solar2D engine is needed: https://solar2d.com
 Every time the player finishes a mini game they are awarded a score point. The score points are tracked on the Medals section. There are three medals: bronze, silver, and gold. They gain opacity more points the player achieves, until they are fully opaque and thus earned. To earn a bronze medal, the player needs 10 points. Silver medal requires 20 points and gold medal requires 50 points. 
 
 ![image](https://github.com/Jumblii/wordgame/assets/41615708/a306fb81-9f37-43e6-9215-4873ff995f3a)
